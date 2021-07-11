@@ -12,7 +12,8 @@
 				</div>
 			</div>
 
-			<iframe class="we-onmap wow fadeInUp" data-wow-delay="0.3s" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.807473228056!2d36.78432136429551!3d-1.2897720990592767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10a6630bb1c5%3A0x50ddf1cf28b5fa40!2sSifa+Towers%2C+Ring+Rd+Kilimani%2C+Nairobi%2C+Kenya!5e0!3m2!1sen!2s!4v1497946740933"></iframe>
+			<!-- <iframe class="we-onmap wow fadeInUp" data-wow-delay="0.3s" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.807473228056!2d36.78432136429551!3d-1.2897720990592767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10a6630bb1c5%3A0x50ddf1cf28b5fa40!2sSifa+Towers%2C+Ring+Rd+Kilimani%2C+Nairobi%2C+Kenya!5e0!3m2!1sen!2s!4v1497946740933"></iframe> -->
+				<iframe class="we-onmap wow fadeInUp" data-wow-delay="0.3s" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.615657791336!2d-48.46847558626451!3d-1.4068372989739601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48bcee215ca51%3A0x479a8ab8845fd0b9!2zQXYuIErDumxpbyBDw6lzYXIsIEJlbMOpbSAtIFBB!5e0!3m2!1spt-BR!2sbr!4v1625969698494!5m2!1spt-BR!2sbr"></iframe>
 
 			<div class="container-fluid block-content">
 				<div class="row main-grid">

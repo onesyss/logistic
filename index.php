@@ -28,12 +28,13 @@
 	                                <a class="prev"><i class="fa fa-angle-left"></i></a>
 	                                <a class="next"><i class="fa fa-angle-right"></i></a>
 	                            </div>
-	                            <div style="display:table-cell;">
-	                                <h1>SUPPLY CHAIN SOLUTIONS</h1>
-	                            </div>
-	                        </div>
-	                        <p>Specialized,organized and complete supply chain management solutions tailored to fit your needs. From planning and analysis to quality control.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
-	                    </div>
+								<div style="display:table-cell;">
+                                <!-- <h1>SOLUÇÕES PARA A CADEIA DE SUPLEMENTOS</h1> -->
+                                <h1>EXPORTAR</h1>
+                            </div>
+                        </div>
+                        <p>Qual a importância da logística internacional para o comércio exterior?.<br><a class="btn btn-success" href="#">SABER MAIS</a></p>
+                    </div>
 	                </div>
 	            </div>
 	            <div class="item">
@@ -45,12 +46,13 @@
 	                                <a class="prev"><i class="fa fa-angle-left"></i></a>
 	                                <a class="next"><i class="fa fa-angle-right"></i></a>
 	                            </div>
-	                            <div style="display:table-cell;">
-	                                <h1>CLEARANCE AND FORWARDING</h1>
-	                            </div>
-	                        </div>
-	                        <p>Customs clearance,rules and processes can be confusing in Kenya but our goal is make customs brokerage as easy as possible for you.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
-	                    </div>
+								<div style="display:table-cell;">
+                                <!-- <h1>ESCLARECIMENTO E ENCAMINHAMENTO</h1> -->
+                                <h1>IMPORTAR</h1>
+                            </div>
+                        </div>
+                        <p>A logística internacional na importação é o setor responsável por planejar a movimentação da carga, armazenamento e distribuição. Não trata-se apenas de um setor operacional.<br><a class="btn btn-success" href="#">SABER MAIS</a></p>
+                    </div>
 	                </div>
 	            </div>
                 <div class="item">
@@ -63,14 +65,15 @@
 	                                <a class="next"><i class="fa fa-angle-right"></i></a>
 	                            </div>
 	                            <div style="display:table-cell;">
-	                                <h1 >ROAD TRUCKING</h1>
-	                            </div>
-	                        </div>
-	                        <p>We provide a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle your transport needs.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
-	                    </div>
+                                <!-- <h1>ROAD TRUCKING</h1> -->
+                                <h1>INVESTIR</h1>
+                            </div>
+                        </div>
+                        <p>Melhorando a importância dos "sistemas logísticos externos" que ligam o fabricante aos seus parceiros da rede industrial, como fornecedores, transportadores e operadores.<br><a class="btn btn-success" href="#">SABER MAIS</a></p>
+                    </div>
 	                </div>
 	            </div>
-                 <div class="item">
+                 <!-- <div class="item">
             		<img src="media/3-column-info/10.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
@@ -103,31 +106,34 @@
 	                        <p>We undertake actual clearance at the border points, land and air and ensure that regulations are followed and correct tariffs are subjected to the goods.<br><a class="btn btn-success" href="#">LEARN MORE</a></p>
 	                    </div>
 	                </div>
-	            </div>
+	            </div> -->
 	        </div>
 	        
 	        <div class="container-fluid">
         		<div class="row column-info block-content">
-            		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" data-wow-delay="3.3s">
-                		<img src="media/3-column-info/1.jpg" alt="slider">
-	                    <span></span>
-	                    <h3>FAST CARGO MOVEMENT</h3>
-	                    <p>We are able to marshall resources and more required cargo from origin to the required destination within the shortest time period.</p>
-	                    <a class="btn btn-default btn-sm" href="goods.php">READ MORE</a>
-	                </div>
-	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="3.3s">
+				
+				<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="3.3s">
                 		<img src="media/3-column-info/2.jpg" alt="Img">
 	                    <span></span>
-	                    <h3>FAST AIR FREIGHT</h3>
-	                    <p> we are able to offer international coverage on air freight and also assist in interconnections of flights schedules for Transit Cargo</p>
-	                    <a class="btn btn-default btn-sm" href="air-freight.php">READ MORE</a>
+	                    <h3>FRETE AÉREO RÁPIDO</h3>
+	                    <p>Podemos oferecer cobertura internacional em frete aéreo e também auxiliar na interconexão de horários de voos para Transit Cargo.</p>
+	                    <a class="btn btn-default btn-sm" href="air-freight.php">CONSULTE MAIS INFORMAÇÕES</a>
 	                </div>
+				
+				<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" data-wow-delay="3.3s">
+                		<img src="media/3-column-info/1.jpg" alt="slider">
+	                    <span></span>
+	                    <h3>MOVIMENTO RÁPIDO DE CARGA</h3>
+	                    <p>Somos capazes de organizar recursos e mais carga necessária da origem ao destino necessário no menor período de tempo.</p>
+	                    <a class="btn btn-default btn-sm" href="goods.php">CONSULTE MAIS INFORMAÇÕES</a>
+	                </div>
+	               
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="3.3s">
                 		<img src="media/3-column-info/3.jpg" alt="Img">
 	                    <span></span>
 	                    <h3>GROUND SHIPPING</h3>
 	                    <p>We provide a reasonable yet comprehensive transportation network within East and Central Africa road from the Port.</p>
-	                    <a class="btn btn-default btn-sm" href="road-trucking.php">READ MORE</a>
+	                    <a class="btn btn-default btn-sm" href="road-trucking.php">CONSULTE MAIS INFORMAÇÕES</a>
 	                </div>
 	            </div>
 	        </div>
@@ -135,16 +141,18 @@
 	        <hr>
 	        <div class="big-hr color-1 wow zoomInUp" data-wow-delay="0.3s">
         		<div class="text-left" style="margin-right:40px;">
-            		<h2>We provide first class logistics services worldwide.</h2>
-            		<p>Zeel Logistics is a well-established supply chain solution's firm majoring in logistics and consultancy.</p>
+            		<h2>OFERECEMOS SERVIÇOS DE LOGÍSTICA DE PRIMEIRA CLASSE EM TODO O MUNDO.</h2>
+            		<p>A North Logistic é uma empresa paraense estabelecida de soluções de cadeia de suprimentos com especialização em logística e consultoria.
+
+</p>
 				</div>
-	            <div><a class="btn btn-success btn-lg" href="contact.php">CONTACT US TODAY</a></div>
+	            <div><a class="btn btn-success btn-lg" href="contact.php">FALE CONOSCO HOJE</a></div>
 	        </div>
 	        
 	        <div class="container-fluid block-content">
         		<div class="text-center hgroup wow zoomInUp" data-wow-delay="0.3s">
-            		<h1>OUR SERVICES</h1>
-            		<h2>We have wide network of offices in all major locations to help you with <br> the services we offer</h2>
+            		<h1>NOSSOS SERVIÇOS</h1>
+            		<h2>TEMOS UMA AMPLA EQUIPE ESPECIALIZADA E COMPLETA PARA AJUDÁ-LO COM <br> OS SERVIÇOS QUE OFERECEMOS.</h2>
 	            </div>
 				<div class="row our-services">
             		<div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" data-wow-delay="0.3s">
@@ -199,13 +207,13 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-sm-4 col-md-4 col-lg-4">
-								<p>We have wide network of offices in all major locations to help you with the services we offer</p>
+								<p>Temos uma ampla equipe capacitada para ajudá-lo com os serviços que oferecemos</p>
 							</div>
 							<div class="col-sm-4 col-md-4 col-lg-4">
-								<p>With the help of our worldwide partners we are providing specialized services in Logistics solutions to our satisfied customers</p>
+								<p>Com a ajuda de nossos parceiros mundiais estamos prestando serviços especializados em soluções logísticas para nossos clientes satisfeitos</p>
 							</div>
 							<div class="col-sm-4 col-md-4 col-lg-4">
-								<p>We provides comprehensive cargo care, cargo movement & project management</p>
+								<p>Oferecemos atendimento abrangente de carga, movimentação de carga e gerenciamento de projeto</p>
 							</div>
 						</div>
 					</div>
@@ -268,15 +276,15 @@
 	        <div class="block-content bg-image blog-section inner-offset">
         		<div class="container-fluid">
             		<div class="hgroup wow fadeInLeft" data-wow-delay="0.3s">
-	                    <h1>CUSTOMISED SERVICES</h1>
+	                    <h1>SERVIÇOS PERSONALIZADOS</h1>
 	                    
 	                </div>
-	                <a class="btn btn-danger pull-right read-all-news wow fadeInRight" data-wow-delay="0.3s" href="services.php">VIEW ALL SERVICES</a>
+	                <a class="btn btn-danger pull-right read-all-news wow fadeInRight" data-wow-delay="0.3s" href="services.php">VER TODOS OS SERVIÇOS</a>
 	                <div class="row">
                 		<div class="col-sm-6 col-md-6 col-lg-6 one-news wow fadeInLeft" data-wow-delay="0.3s">
                     		<div style="background-image:url(media/3-column-info/2.jpg);">
                         		<div>
-                            		<a href="air-freight.php"><h3>AIR FREIGHT SERVICES</h3></a>
+                            		<a href="air-freight.php"><h3>SERVIÇOS DE FRETE AÉREO</h3></a>
 	                                
 	                            </div>
 	                        </div>
@@ -288,7 +296,7 @@
 	                            </div>
 	                            <div class="col-sm-6 col-md-6 col-lg-6">
 	                                <div>
-	                                    <a href="road-trucking.php"><h3>ROAD TRUCKING</h3></a>
+	                                    <a href="road-trucking.php"><h3>SERVIÇOS DE CARGA</h3></a>
 	                                    
 	                                </div>
 	                            </div>
@@ -299,7 +307,7 @@
 	                            </div>
 	                            <div class="col-sm-6 col-md-6 col-lg-6">
 	                                <div>
-	                                    <a href="goods.php"><h3>IMPORTS & EXPORTS OF GOODS</h3></a>
+	                                    <a href="goods.php"><h3>IMPORTAÇÕES E EXPORTAÇÕES DE MERCADORIAS</h3></a>
 	                               
 	                                </div>
 	                            </div>
@@ -311,8 +319,8 @@
 	        
 	        <div class="container-fluid partners block-content">
 	            <div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
-	                <h1>OUR partners</h1>
-	                <h2>PROVIDING WIDE RANGE OF TRANSPORT SERVICES AND MEANS OF TRANSPORT</h2>
+	                <h1>NOSSOS PARCEIROS</h1>
+	                <h2>FORNECENDO UMA VASTA GAMA DE SERVIÇOS DE TRANSPORTE E MEIOS DE TRANSPORTE</h2>
 	            </div>
 	            <div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
 	                <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/1.png" alt="Img"></a></div>
