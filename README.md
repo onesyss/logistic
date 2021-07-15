@@ -1,3 +1,4 @@
 # logistics-website
-http://zeel.co.ke/
-this is a static HTML Website. Feel free to use
+
+# Rodar código
+ php -S localhost:8000  
