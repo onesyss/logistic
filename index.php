@@ -20,7 +20,7 @@
 	        
 	        <div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
 	            <div class="item">
-            		<img src="media/main-slider/1.jpg" alt="slider">
+				<img src="media/main-slider/5.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
@@ -38,7 +38,7 @@
 	                </div>
 	            </div>
 	            <div class="item">
-            		<img src="media/main-slider/2.jpg" alt="slider">
+            		<img src="media/main-slider/3.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
@@ -56,7 +56,8 @@
 	                </div>
 	            </div>
                 <div class="item">
-            		<img src="media/3-column-info/11.jpg" alt="slider">
+            		<!-- <img src="media/3-column-info/11.jpg" alt="slider"> -->
+					<img src="media/main-slider/6.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
@@ -113,7 +114,7 @@
         		<div class="row column-info block-content">
 				
 				<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="3.3s">
-                		<img src="media/3-column-info/2.jpg" alt="Img">
+                		<img src="media/images/12.jpg" alt="Img">
 	                    <span></span>
 	                    <h3>FRETE AÉREO RÁPIDO</h3>
 	                    <p>Podemos oferecer cobertura internacional em frete aéreo e também auxiliar na interconexão de horários de voos para Transit Cargo.</p>
@@ -121,7 +122,8 @@
 	                </div>
 				
 				<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" data-wow-delay="3.3s">
-                		<img src="media/3-column-info/1.jpg" alt="slider">
+                		<!-- <img src="media/3-column-info/1.jpg" alt="slider"> -->
+						<img src="media/3-column-info/6.jpg" alt="Img">
 	                    <span></span>
 	                    <h3>MOVIMENTO RÁPIDO DE CARGA</h3>
 	                    <p>Somos capazes de organizar recursos e mais carga necessária da origem ao destino necessário no menor período de tempo.</p>
@@ -129,10 +131,10 @@
 	                </div>
 	               
 	                <div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="3.3s">
-                		<img src="media/3-column-info/3.jpg" alt="Img">
+                		<img src="media/images/11.jpg" alt="Img">
 	                    <span></span>
-	                    <h3>GROUND SHIPPING</h3>
-	                    <p>We provide a reasonable yet comprehensive transportation network within East and Central Africa road from the Port.</p>
+	                    <h3>ENTREGA POR VIA TERRESTRE</h3>
+	                    <p>O aumento do comércio entre os países estimulou o transporte rodoviário.</p>
 	                    <a class="btn btn-default btn-sm" href="road-trucking.php">CONSULTE MAIS INFORMAÇÕES</a>
 	                </div>
 	            </div>
@@ -159,43 +161,43 @@
                 		<a href="clearance.php">
                     		<span><i class="glyph-icon flaticon-boats4"></i>
                             </span>
-                    		<h4>CLEARANCE AND FORWARDING</h4>
-	                        <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
+                    		<h4>LIBERAÇÃO</h4>
+	                        <p>A North tem ampla experiência em lidar com importações e exportações com origem em sua capital Belém para o resto do mundo.</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
                 		<a href="road-trucking.php">
                     		<span><i class="glyph-icon flaticon-railway1"></i></span>
-                    		<h4>Road Trucking</h4>
-	                        <p> The increased trade between countries has stimulated haulage by road. Goods can be carried</p>
+                    		<h4>TRANSPORTE RODOVIÁRIO</h4>
+	                        <p> O aumento do comércio entre os paises estimulou o transporte rodoviário. As mercadorias podem ser transportadas.</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" data-wow-delay="0.3s">
                 		<a href="air-freight.php">
                     		<span><i class="glyph-icon flaticon-flying"></i></span>
-                    		<h4>INTERNATIONAL AIR FREIGHT</h4>
-	                        <p>Air Freight as a means of ferrying goods has its timely and security advantages and is the </p>
+                    		<h4>FRETE AÉREO INTERNACIONAL</h4>
+	                        <p>O frete aéreo com meio de transporte de mercadorias tem suas vantagens oportunas e de segurança</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInLeft" data-wow-delay="0.3s">
                 		<a href="goods.php">
                     		<span><i class="glyph-icon flaticon-package7"></i></span>
-                    		<h4>IMPORT AND EXPORT OF GOODS</h4>
-                            <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other </p>
+                    		<h4>IMPORTAÇÕES E EXPORTAÇÕES DE MERCADORIAS</h4>
+                            <p>A North tem uma ampla experiência em lidar com importações e exportações, em diversos países das americas.</p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInUp" data-wow-delay="0.3s">
                 		<a href="warehousing.php">
                     		<span><i class="glyph-icon flaticon-garage1"></i></span>
-                    		<h4>WAREHOUSING</h4>
-                            <p>We offer our fleet to customers for local deliveries in times of need where no international</p>
+                    		<h4>ARMAZENAGEM </h4>
+                            <p>Oferecemos nossa frota aos clientes para entregas locais em momentos de necessidade, onde nenhum movimento internacional é relevante. </p>
 	                    </a>
 	                </div>
 	                <div class="col-sm-6 col-md-4 col-lg-4 wow zoomInRight" data-wow-delay="0.3s">
                 		<a href="supply-chain-management.php">
                     		<span><i class="glyph-icon flaticon-traffic-signal"></i></span>
-                    		<h4>SUPPLY CHAIN CONSULTANCY </h4>
-                            <p> Zeel is capable of assisting reviewing procurement organizations for best practices and </p>
+                    		<h4>CONSULTORIA DE CADEIA DE FORNECIMENTO</h4>
+                            <p> É muito importante ter suas operações e processos logísticos organizados da forma mais eficiente possível.</p>
 	                    </a>
 	                </div>
 	            </div>
@@ -220,7 +222,7 @@
 				</div>
 			</div>
             
-	        <div class="fleet-gallery block-content bg-image inner-offset">
+	        <!-- <div class="fleet-gallery block-content bg-image inner-offset">
         		<div class="container-fluid inner-offset">
 	                <div class="text-center hgroup wow zoomInUp" data-wow-delay="0.3s">
 	                    <h1>THE FLEETS GALLERY</h1>
@@ -239,12 +241,12 @@
 	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/2013-07-13%2015.34.05.jpg" alt="Img"></div>
 	                </div>
     			</div>
-	        </div>
+	        </div> -->
 
             
 	        <hr>
 	        
-	        <div class="container-fluid block-content percent-blocks" data-waypoint-scroll="true">
+	        <!-- <div class="container-fluid block-content percent-blocks" data-waypoint-scroll="true">
         		<div class="row stats">
             		<div class="col-sm-6 col-md-3 col-lg-3">
                 		<div class="chart" data-percent="230">
@@ -271,7 +273,7 @@
 	                    </div>
 	                </div>
 	            </div>
-	        </div>
+	        </div> -->
 	        
 	        <div class="block-content bg-image blog-section inner-offset">
         		<div class="container-fluid">
@@ -317,7 +319,7 @@
 	            </div>
 	        </div>
 	        
-	        <div class="container-fluid partners block-content">
+	        <!-- <div class="container-fluid partners block-content">
 	            <div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
 	                <h1>NOSSOS PARCEIROS</h1>
 	                <h2>FORNECENDO UMA VASTA GAMA DE SERVIÇOS DE TRANSPORTE E MEIOS DE TRANSPORTE</h2>
@@ -330,7 +332,7 @@
 	                <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/1.png" alt="Img"></a></div>
 	                <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/2.png" alt="Img"></a></div>
 	            </div>
-	        </div>
+	        </div> -->
 	       
 <?php include 'footer.php' ?>			
         </div>

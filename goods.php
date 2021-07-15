@@ -6,9 +6,9 @@
        
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>IMPORTS AND EXPORTS OF GOODS</h1></a>
+					<a href="#"><h1>IMPORTAÇÕES E EXPORTAÇÕES DE MERCADORIAS</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="goods.php">Imports and exports of goods</a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="goods.php">Importação e exportação de bens</a>
 					</div>
 				</div>
 			</div>
@@ -18,63 +18,62 @@
 <?php include 'services_sidebar.php' ?>
                     
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">BUSCAR REALIZAR SERVIÇOS ESPECIALIZADOS EM SOLUÇÕES LOGÍSTICAS PARA NOSSOS CLIENTES SATISFEITOS</h1>
 						<img src="media/images/10.png" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other adjoining COMESA countries
+                                <p>A North tem uma ampla experiência em lidar com importações e exportações, em diversos países das americas.
 
 								</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
 		
-							<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
-								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>	
+							<h4>LOGÍSTICA INTERNACIONAL E TRANSPORTE</h4>
+								<p>Aquisição de sourcing estratégico A aquisição moderna realizada com conformidade aprimorada pode resultar em maior economia.</p>
+                                <p>A North Brazil garante que o abastecimento de mercadorias seja feito com o máximo profissionalismo levado em consideração para garantir que as mercadorias e serviços corretos sejam entregues.</p>	
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <h4>What we offer</h4>
-                                <p>We undertake actual clearance at the border points, land and air and ensure that regulations are followed and correct tariffs are subjected to the goods.</p>
+                                <h4>O QUE NÓS OFERECEMOS</h4>
+                                <p>Realizamos a liberação efetiva nos pontos de fronteira, terrestres e aéreos e garantimos que os regulamentos sejam seguidos e as tarifas corretas sejam sujeitas às mercadorias.</p>
 							<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Advise on the best freight forwarding options
+                                Aconselhar sobre as melhores opções de agenciamento de carga
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               Ensure proper documents are used to import or export
+								Certifique-se de que os documentos adequados sejam usados ​​para importar ou exportar
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               Advise on regional tax options for pre planning purposes
+								Aconselhar sobre opções de impostos regionais para fins de planejamento prévio
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Ensure compliance restrictions are met
+                                Garantir que as restrições de conformidade sejam atendidas
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Point to point delivery; Inbound and Outbound
+                                Ponto a ponto de entrega; Inbound e Outbound
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               Tracking: Keep the client updated on the shipping schedule and milestones through the movement.
+								Rastreamento: Manter o cliente atualizado sobre a programação de embarque e marcos durante a movimentação.
                             </li>
                         </ul>
 								<img src="media/images/5.jpg" class="full-width" alt="Img">
-								<h4>TIMELY DELIVERY</h4>
-								<p>Our operations are guided by timlines as a value and we endevour to work together with the client on delivery.</p>
+								<h4>ENTREGA OPORTUNA</h4>
+								<p>Nossas operações são guiadas por prazos como um valor e nos esforçamos para trabalhar junto com o cliente na entrega.</p>
 								
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contate-nos</a>
 						</p>
 					</div>
 				</div>            

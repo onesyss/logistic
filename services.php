@@ -6,9 +6,9 @@
             
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>OUR SERVICES</h1></a>
+					<a href="#"><h1>NOSSOS SERVIÇOS</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>
 					</div>
 				</div>
 			</div>
@@ -19,14 +19,13 @@
 						<div class="sidebar-container">
 							<div>
 								<ul class="styled">
-									<li class="active"><a href="services.php">All services</a></li>
-									<li><a href="clearance.php">Clearing and Forwarding</a></li>
-									<li><a href="road-trucking.php">Road Trucking Transport Services</a></li>
-									
-									<li><a href="air-freight.php">AIR FREIGHT</a></li>
-									<li><a href="goods.php">Import and Export of goods</a></li>
-									<li><a href="warehousing.php">warehousing</a></li>
-									<li><a href="supply-chain-management.php">Supply chain</a></li>
+								<li class="active"><a href="services.php">Todos os serviços</a></li>
+									                <li><a href="clearance.php">Agenciamento de cargas</a></li> 
+                                                    <li><a href="road-trucking.php">Transporte rodoviário</a></li>
+                                                    <li><a href="air-freight.php">Frete Nacional e Internacional</a></li>
+                                                    <li><a href="goods.php">Despacho aduaneiro</a></li>
+                                                    <li><a href="warehousing.php">Armazenagem</a></li>
+                                                    <li><a href="supply-chain-management.php">Cadeia de mantimentos</a></li>
 								</ul>
 							</div>
 						</div>
@@ -35,41 +34,41 @@
 						<div class="row services">
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
 								<img class="full-width" src="media/3-column-info/4.jpg" alt="Img">
-								<h4>CLEARANCE & FORWARDING</h4>
-								<p>Customs clearance,rules and processes can be confusing in Kenya but our goal is make customs brokerage as easy as possible.</p>
-								<a class="btn btn-success btn-sm" href="clearance.php">READ MORE</a>
+								<h4>Liberação</h4>
+								<p>O desembaraço aduaneiro tem tudo a ver com simplicidade. As regras e processos alfandegários podem ser confusos</p>
+								<a class="btn btn-success btn-sm" href="clearance.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
 								<img class="full-width" src="media/3-column-info/8.jpg" alt="Img">
-								<h4>ROAD TRUCKING</h4>
-								<p>We provide a reasonable yet comprehensive transportation network within East and Central Africa from the port of Mombasa.</p>
-								<a class="btn btn-success btn-sm" href="road-trucking.php">READ MORE</a>
+								<h4>TRANSPORTE RODOVIÁRIO</h4>
+								<p>O aumento do comércio entre os países estimulou o transporte rodoviário. As mercadorias podem ser transportadas de porta em porta nas regiões.</p>
+								<a class="btn btn-success btn-sm" href="road-trucking.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
 								<img class="full-width" src="media/3-column-info/5.jpg" alt="Img">
-								<h4>AIR FREIGHT</h4>
-								<p>We are able to offer international coverage on air freight and also assist in interconnections of flights schedules for Transit Cargo. </p>
-								<a class="btn btn-success btn-sm" href="air-freight.php">READ MORE</a>
+								<h4>FRETE AÉREO</h4>
+								<p>Podemos oferecer cobertura internacional em frete aéreo e também auxiliar nas interconexões de horários de voos para Transit Cargo.</p>
+								<a class="btn btn-success btn-sm" href="air-freight.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
-								<img class="full-width" src="media/3-column-info/7.jpg" alt="Img">
-								<h4>IMPORTS & EXPORTS OF GOODS</h4>
-								<p> Zeel has wide experience in handling Imports and Exports in Kenya, South Sudan and other adjoining COMESA countries.</p>
-								<a class="btn btn-success btn-sm" href="goods.php">READ MORE</a>
+								<img class="full-width" src="media/images/13.jpg" alt="Img">
+								<h4>IMPORTAÇÕES E EXPORTAÇÕES DE MERCADORIAS</h4>
+								<p> A North tem uma ampla experiência em lidar com importações e exportações, em diversos países das americas..</p>
+								<a class="btn btn-success btn-sm" href="goods.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
 								<img class="full-width" src="media/3-column-info/8.jpg" alt="Img">
-								<h4>WAREHOUSING</h4>
-								<p> We offer our fleet to customers for local deliveries in times of need where no international movement is relevant. </p>
-								<a class="btn btn-success btn-sm" href="warehousing.php">READ MORE</a>
+								<h4>ARMAZENAGEM</h4>
+								<p> Oferecemos nossa frota aos clientes para entregas locais em momentos de necessidade, onde nenhum movimento internacional é relevante.</p>
+								<a class="btn btn-success btn-sm" href="warehousing.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							<div class="service-item col-xs-6 col-sm-4 col-md-4 col-lg-4 wow zoomIn" data-wow-delay="0.3s">
 								<img class="full-width" src="media/3-column-info/4.jpg" alt="Img">
                                 <br>
-								<h4>SUPPLY CHAIN CONSULTANCY</h4>
-								<p>We provide complete supply chain management solutions tailored to fit your needs through use of Technology to improve efficiency  </p>
+								<h4>CONSULTORIA DA CADEIA DE FORNECIMENTO</h4>
+								<p>Oferecemos soluções completas de gestão da cadeia de suprimentos sob medida para atender às suas necessidades por meio do uso de tecnologia para melhorar a eficiência</p>
                                
-								<a class="btn btn-success btn-sm" href="supply-chain-management.php">READ MORE</a>
+								<a class="btn btn-success btn-sm" href="supply-chain-management.php">CONSULTE MAIS INFORMAÇÕES</a>
 							</div>
 							
 							

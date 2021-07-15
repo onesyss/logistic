@@ -6,9 +6,9 @@
        
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>WAREHOUSING </h1></a>
+					<a href="#"><h1>ARMAZENAGEM</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="warehousing.php">Warehousing </a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="warehousing.php">Armazenagem</a>
 					</div>
 				</div>
 			</div>
@@ -18,60 +18,59 @@
 <?php include 'services_sidebar.php' ?>
                     
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">SEMPRE PRESTANDO SERVIÇOS ESPECIALIZADOS EM SOLUÇÕES LOGÍSTICAS PARA NOSSOS CLIENTES SATISFEITOS</h1>
 						<img src="media/images/8.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>We offer our fleet to customers for local deliveries in times of need where no international movement is relevant. A competitive warehouse and handling tariff is provided. All vehicles are fitted with anti-hijack alarm and alert apparatus
+                                <p>Oferecemos nossa frota aos clientes para entregas locais em momentos de necessidade, onde nenhum movimento internacional é relevante. Um armazém competitivo e uma tarifa de manuseio são fornecidos. Todos os veículos estão equipados com alarme anti-sequestro e aparelho de alerta.
 
 								</p>
 								<p>
-                                    "Bonded" and "Free" warehouse facilities including the services of handling and storage of in-transit cargo. This service includes stock monitoring and the provision of reports, container unpacking and damage assessment at the time of receipt.
+								Armazéns "alfandegados" e "livres" incluindo os serviços de manuseio e armazenamento de cargas em trânsito. Este serviço inclui monitoramento de estoque e fornecimento de relatórios, desempacotamento de contêineres e avaliação de avarias no momento do recebimento.
                                 </p>
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
                                 <p>
-                                    We offer in-house warehouse management. This is where we manage the clients’ warehouse, dispatching, receipting, stock counts and internal controls.                                
+								Oferecemos gerenciamento de armazém interno. É aqui que gerimos o armazém dos clientes, a expedição, a recepção, a contagem de stock e os controlos internos.                                
                                 </p>
 		
-							<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
-								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>	
+							<h4>LOGÍSTICA INTERNACIONAL E TRANSPORTE</h4>
+								<p>Aquisição de sourcing estratégico A aquisição moderna realizada com conformidade aprimorada pode resultar em maior economia.</p>
+                                <p> A North garante que o abastecimento de mercadorias seja feito com o máximo profissionalismo levado em consideração para garantir que as mercadorias e serviços corretos sejam entregues.</p>	
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <h4>What we offer</h4>
-                                <p>Our warehouse has the most modern alarm system, Close Circuit Television complete with armed response, smoke detectors etc. as well as armed guards on all Branch premises 24 hours per day.</p>
+                                <h4>O QUE NÓS OFERECEMOS</h4>
+                                <p>Sistema de gerenciamento de armazém de última geração (WMS) com a flexibilidade de integração com seus sistemas</p>
 							<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               State-of-the art warehouse managing system (WMS) with the flexibility to integrate with your systems
+								Contrato de armazenagem, com espaço garantido, suporte operacional e equipamentos, mão de obra e instalações dedicados
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               Contract warehousing, with guaranteed space, operational support and dedicated equipment, labor and facilities
+								Armazenamento público para necessidades imprevisíveis de armazenamento, estouro, mudanças sazonais de estoque e start-ups
                             </li>
+
+                            <!-- <li>
+                                <i class="fa fa-li fa-long-arrow-right"></i>
+								Armazenamento público para necessidades imprevisíveis de armazenamento, estouro, mudanças sazonais de estoque e start-ups
+                            </li> -->
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                              Public warehousing for unpredictable storage needs, overflow, seasonal inventory shifts and start-ups
-                            </li>
-
-                            <li>
-                                <i class="fa fa-li fa-long-arrow-right"></i>
-                                Value added services including kitting, pick and pack, export crating and more
+                                Serviços de valor agregado, incluindo kits, coleta e embalagem, embalagem de exportação e muito mais
                             </li>
 
                         
                         </ul>
 								<img src="media/images/5.jpg" class="full-width" alt="Img">
-								<h4>TIMELY DELIVERY</h4>
-								<p>Our operations are guided by timlines as a value and we endevour to work together with the client on delivery.</p>
+								<h4>ENTREGA OPORTUNA</h4>
+								<p>Nossas operações são guiadas por prazos como um valor e nos esforçamos para trabalhar junto com o cliente na entrega.</p>
 								
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contate-nos</a>
 						</p>
 					</div>
 				</div>            

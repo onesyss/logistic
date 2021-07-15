@@ -6,9 +6,9 @@
        
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>Supply chain management  </h1></a>
+					<a href="#"><h1>GESTÃO DA CADEIA DE ABASTECIMENTO</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="supply-chain-management.php">Supply chain management  </a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="supply-chain-management.php">Gestão de cadeia de abastecimento</a>
 					</div>
 				</div>
 			</div>
@@ -18,58 +18,58 @@
 <?php include 'services_sidebar.php' ?>
                     
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">We provide complete supply chain management solutions tailored to fit your needs. From planning and analysis to quality control.</h1>
+						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">OFERECEMOS SOLUÇÕES COMPLETAS DE GERENCIAMENTO DA CADEIA DE SUPRIMENTOS SOB MEDIDA PARA ATENDER ÀS SUAS NECESSIDADES. DO PLANEJAMENTO E ANÁLISE AO CONTROLE DE QUALIDADE.</h1>
 						<img src="media/images/9.png" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>It’s very important to have your logistic operations and processes organized as efficient is possible. Harler & Supreme Logistics consultants have been finding new way of managing the flow of materials through their procurement and distribution networks, warehousing and transport operations. Whether you are a small regional company or multinational corporations our expertise can help manage your logistic requirements or projects smoothly and save costs.
+                                <p>É muito importante ter suas operações e processos logísticos organizados da forma mais eficiente possível. E encontrar uma nova maneira de gerenciar o fluxo de materiais por meio de redes de compras e distribuição, armazenamento e operações de transporte. Quer você seja uma pequena empresa regional ou multinacional, nossa experiência pode ajudá-lo a gerenciar seus requisitos ou projetos logísticos sem problemas e economizar custos.
 								</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
-                                <h4>Busines process outsourcing</h4>
+                                <h4>TERCEIRIZAÇÃO DE PROCESSOS EMPRESARIAIS</h4>
                       <p>
-                                Procurement is not a core competency and external expertise can bring proven experience and strategies gathered from different challenges to assist in ensuring that operations are effectively and efficiently undertaken.
+					  Aquisição não é uma competência central e o conhecimento externo pode trazer experiência comprovada e estratégias obtidas em diferentes desafios para ajudar a garantir que as operações sejam realizadas de forma eficaz e eficiente.
                                 </p>
 		
-							<h4>Spend Analysis</h4>
-								<p>We examine your business to understand how it works so we could make a detailed supply chain management design.</p>	
-                                <h4>Improving supply chain perfomance</h4>
-								<p>With intelligent software solutions you can know your supplies and demand status and what is happening in all chain of transportation.</p>	
+							<h4>ANÁLISE DE DESPESAS</h4>
+								<p>Examinamos sua empresa para entender como ela funciona para que possamos fazer um projeto detalhado de gerenciamento da cadeia de suprimentos.</p>	
+                                <h4>MELHORAR O DESEMPENHO DA CADEIA DE SUPRIMENTOS</h4>
+								<p>Com soluções de software inteligentes você pode saber seu status de suprimentos e demanda e o que está acontecendo em toda a cadeia de transporte.</p>	
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <h4>What we offer</h4>
-                                <p>But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+                                <h4>O QUE NÓS OFERECEMOS</h4>
+                                <p>Mas, em certas circunstâncias e devido às reivindicações do dever ou às obrigações do negócio, freqüentemente ocorrerá que os prazeres têm de ser repudiados e os aborrecimentos aceitos. O homem sábio, portanto, sempre mantém nestes assuntos este princípio de seleção: ele rejeita prazeres para assegurar outros prazeres maiores, ou então ele suporta dores para evitar dores piores.</p>
 							<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               State-of-the art warehouse managing system (WMS) with the flexibility to integrate with your systems
+								Sistema de gerenciamento de armazém de última geração (WMS) com a flexibilidade de integração com seus sistemas
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                               Contract warehousing, with guaranteed space, operational support and dedicated equipment, labor and facilities
+								Contrato de armazenagem, com espaço garantido, suporte operacional e equipamentos, mão de obra e instalações dedicados
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                              Public warehousing for unpredictable storage needs, overflow, seasonal inventory shifts and start-ups
+								Armazenamento público para necessidades imprevisíveis de armazenamento, estouro, mudanças sazonais de estoque e start-ups
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Value added services including kitting, pick and pack, export crating and more
+                                Serviços de valor agregado, incluindo kits, coleta e embalagem, embalagem de exportação e muito mais
                             </li>
 
                         
                         </ul>
 								<img src="media/images/5.jpg" class="full-width" alt="Img">
-								<h4>TIMELY DELIVERY</h4>
-								<p>Our operations are guided by timlines as a value and we endevour to work together with the client on delivery.</p>
+								<h4>ENTREGA OPORTUNA</h4>
+								<p>Nossas operações são guiadas por prazos como um valor e nos esforçamos para trabalhar junto com o cliente na entrega.</p>
 								
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contate-nos</a>
 						</p>
 					</div>
 				</div>            

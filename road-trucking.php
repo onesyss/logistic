@@ -6,9 +6,9 @@
        
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>ROAD TRUCKING</h1></a>
+					<a href="#"><h1>TRANSPORTE RODOVIÁRIO</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="road-trucking.php">Road trucking</a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="road-trucking.php">Transporte rodoviário</a>
 					</div>
 				</div>
 			</div>
@@ -18,59 +18,59 @@
 <?php include 'services_sidebar.php' ?>
                     
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">COM A AJUDA DE NOSSOS PARCEIROS MUNDIAIS ESTAMOS PRESTANDO
+						SERVIÇOS ESPECIALIZADOS EM SOLUÇÕES LOGÍSTICAS PARA NOSSOS CLIENTES SATISFEITOS</h1>
 						<img src="media/images/6.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>The increased trade between countries has stimulated haulage by road. Goods can be carried from door to door within East Africa and Comesa countries accessible by road from the Port of Mombasa, Kenya. </p>
-                                <p>Zeel Logistics prides itself in its ability to offer efficient transport solutions using its fleet of trucks. Our trucks are fitted with a Real-time Satellite Tracking over digital maps, which allow the management to view the fleet location over the Internet based on GPS through IDEN/GSM Communication System. This device ensures that the trucks position is known all the time.</p>
+                                <p>O aumento do comércio entre os países estimulou o transporte rodoviário. As mercadorias podem ser transportadas de porta em porta nas regiões.</p>
+                                <p>A North Brazil Logistic se orgulha de oferecer soluções eficientes de transporte por meio de sua frota de caminhões. Nossos caminhões são dotados de Rastreamento por Satélite em Tempo Real sobre mapas digitais, que permitem ao gerenciamento visualizar a localização da frota pela Internet com base em GPS através do Sistema de Comunicação IDEN / GSM. Este dispositivo garante que a posição dos caminhões seja conhecida o tempo todo.</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
-								<h4>INTERNATIONAL LOGISTICS & TRANSPORTATION</h4>
-								<p>Strategic Sourcing Procurement Modern day procurement undertaken with improved compliance can result in greater savings.</p>
-                                <p> Zeel ensures that sourcing of goods is done with utmost professionalism taken into consideration to ensure that the correct goods and services are delivered.</p>
+								<h4>LOGÍSTICA INTERNACIONAL E TRANSPORTE</h4>
+								<p>Aquisição de sourcing estratégico A aquisição moderna realizada com conformidade aprimorada pode resultar em maior economia.</p>
+                                <p> A North garante que o abastecimento de mercadorias seja feito com o máximo profissionalismo levado em consideração para garantir que as mercadorias e serviços corretos sejam entregues.</p>
 								
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <h4>What we offer</h4>
-                                <p>Zeel Logistics provides a reasonable yet comprehensive transportation network within East Africa and will be in a position to handle the following:</p>
+                                <h4>O QUE NÓS OFERECEMOS</h4>
+                                <p>A North Logistic fornece uma rede de transporte razoável, mas abrangente dentro do estado do Pará e na capital Belém e estará em posição de lidar com o seguinte:</p>
 								<ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Haulage of Full container loads (FCL) and less than container (LCL) load
+                                Transporte de cargas de contêiner completo (FCL) e carga inferior ao contêiner (LCL)
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Refridgerated Transport
+                                Transporte refrigerado
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Bulk and heavy lift project cargo transport
+                                Transporte de carga de projeto a granel e pesado
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Fragile and sensitive goods
+                                Bens frágeis e sensíveis
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Courier Express Delivery with very quick turnaround delivery period
+                                Courier Express Delivery com prazo de entrega rápido
                             </li>
                            
                         </ul>
 							
 								<img src="media/images/5.jpg" class="full-width" alt="Img">
-								<h4>TIMELY DELIVERY</h4>
-								<p>Our operations are guided by timlines as a value and we endevour to work together with the client on delivery.</p>
+								<h4>ENTREGA OPORTUNA</h4>
+								<p>Nossas operações são guiadas por prazos como um valor e nos esforçamos para trabalhar junto com o cliente na entrega.</p>
 								
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contate-nos</a>
 						</p>
 					</div>
 				</div>            

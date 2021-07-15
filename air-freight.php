@@ -6,9 +6,9 @@
        
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>AIR FREIGHT</h1></a>
+					<a href="#"><h1>FRETE AÉREO</h1></a>
 					<div class="pull-right">
-						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Our services</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="air-freight.php">Air freight</a>
+						<a href="index.php"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="services.php">Nossos serviços</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="air-freight.php">Frete aéreo</a>
 					</div>
 				</div>
 			</div>
@@ -18,59 +18,59 @@
 <?php include 'services_sidebar.php' ?>
                     
 					<div class="col-sm-9 main-content">
-						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">With the help of our worldwide partners we are providing specialized
-							services in Logistics solutions to our satisfied customers</h1>
+						<h1 class="text-center italic wow zoomIn" data-wow-delay="0.3s">COM A AJUDA DE NOSSOS PARCEIROS MUNDIAIS ESTAMOS PRESTANDO SERVIÇOS ESPECIALIZADOS 
+							EM SOLUÇÕES LOGÍSTICAS PARA NOSSOS CLIENTES SATISFEITOS</h1>
 						<img src="media/images/7.jpg" class="full-width wow zoomIn" data-wow-delay="0.3s" alt="Img">
 						<div class="row">                    	
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <p>Air Freight as a means of ferrying goods has its timely and security advantages and is the best when distance plays a challenge. Zeel Logistics using its network with airlines, we are able to offer international coverage on air freight to and from whichever part of the world and also assist in interconnections of flights schedules for Transit Cargo. 
+                                <p>O frete aéreo como meio de transporte de mercadorias tem suas vantagens oportunas e de segurança e é o melhor quando a distância representa um desafio. A North Logistic por meio de seus serviços, oferece a cobertura internacional em frete aéreo na capital Belém para qualquer parte do mundo e também auxiliar nas interconexões de horários de voos para Transit Cargo.
 								</p>
 								
 								<img src="media/images/4.jpg" class="full-width" alt="Img">
 								
-								<p>   Our dedicated staff team have put themselves in line and created a rapport with regional airlines and will ensure that air freight services meet the customer’s expectations. We at Zeel will offer cost effective management of customs of clearance, bonding, regulatory declarations, exemptions and any other requirements as per the country of arrival. Our good relationship with major carriers and airlines give us the competitive edge to satisfy our customer requirements.</p>
+								<p>   Nossa equipe dedicada se posicionou e criou um relacionamento com as companhias aéreas regionais e garantirá que os serviços de frete aéreo atendam às expectativas do cliente. Nós da North ofereceremos uma gestão econômica de desembaraço aduaneiro, alfândega, declarações regulatórias, isenções e quaisquer outros requisitos de acordo com o país de chegada. Nosso bom relacionamento com as principais operadoras e companhias aéreas nos dá a vantagem competitiva para atender às necessidades de nossos clientes.</p>
 								
 							</div>
 							<div class="col-xs-6 wow zoomIn" data-wow-delay="0.3s">
-                                <h4>What we offer</h4>
-                                <p>Zeel Logistics Ltd. can organize scheduled flights and chartered planes from a wide range of major carriers making us flexible enough to help everyone from first-time shippers to regular importers and exporters of freight.</p>
+                                <h4>O QUE NÓS OFERECEMOS</h4>
+                                <p>A North Brazil Logistic Ltd. pode organizar voos regulares e aviões fretados de uma ampla gama das principais transportadoras, tornando-nos flexíveis o suficiente para ajudar a todos, desde transportadores de primeira viagem até importadores e exportadores regulares de mercadorias.</p>
 								<ul class="fa-ul">
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Remote aviation 
+                                        Aviação remota
+                                    </li>
+
+                                    <!-- <li>
+                                        <i class="fa fa-li fa-long-arrow-right"></i>
+                                        Fretamento aéreo
+                                    </li> -->
+
+                                    <!-- <li>
+                                        <i class="fa fa-li fa-long-arrow-right"></i>
+                                        Serviços de helicóptero
+                                    </li> -->
+
+                                    <li>
+                                        <i class="fa fa-li fa-long-arrow-right"></i>
+                                        Entrega de aeroporto para aeroporto
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Air charter
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Helicopter services
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Airport to airport delivery
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Door to door delivery
+                                        Entrega porta a porta
                                     </li>
 
                                     
                                 </ul>
 							
 								<img src="media/images/5.jpg" class="full-width" alt="Img">
-								<h4>TIMELY DELIVERY</h4>
-								<p>Our operations are guided by timlines as a value and we endevour to work together with the client on delivery.</p>
+								<h4>ENTREGA OPORTUNA</h4>
+								<p>Nossas operações são guiadas por prazos como um valor e nos esforçamos para trabalhar junto com o cliente na entrega.</p>
 								
 							</div>
 						</div>
 						<p class="text-center">
-							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">contact us</a>
+							<a href="contact.php" class="btn btn-danger btn-default wow zoomIn" data-wow-delay="0.3s">CONTATE-NOS</a>
 						</p>
 					</div>
 				</div>            

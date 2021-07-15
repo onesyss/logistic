@@ -7,16 +7,18 @@
 	                        <a href="#">WHY US</a> -->
 	                    </nav>
 	                    <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-	                        <a href="#"><i class="fa fa-facebook"></i></a>
 	                        <!-- <a href="#"><i class="fa fa-google-plus"></i></a> -->
 	                        <!-- <a href="#"><i class="fa fa-twitter"></i></a>
 	                        <a href="#"><i class="fa fa-pinterest"></i></a> -->
-	                        <a href="#"><i class="fa fa-youtube"></i></a>
+	                        <!-- <a href="#"><i class="fa fa-youtube"></i></a> -->
+							<a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+							<a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+							<a href="#"><i class="fa fa-whatsapp fa-2x"></i></a>
 	                    </nav>
 	                </div>
 	                <div class="row header">
 	                    <div class="col-sm-3 col-md-3 col-lg-3">
-	                        <!-- <img src="img/logo.png" width="200px" alt="Zeel Logistics"/> -->
+	                        <img src="img/logo.png" width="200px" alt="North Logistic"/>
 
 	                    </div>
 	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
@@ -37,12 +39,12 @@
 							<li class="dropdown">
 								<a data-toggle="dropdown" class="dropdown-toggle border-hover-color1" href="">NOSSOS SERVIÇOS <i class="fa fa-angle-down"></i></a>
 								<ul class="dropdown-menu">
-									                <li><a href="clearance.php">Clearance &amp; Forwading</a></li> 
-                                                    <li><a href="road-trucking.php">Road Trucking</a></li>
-                                                    <li><a href="air-freight.php">Frete Aéreo</a></li>
-                                                    <li><a href="goods.php">Import &amp; Export of goods</a></li>
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply Chain</a></li>
+									                <li><a href="clearance.php">Agenciamento de carga</a></li> 
+                                                    <li><a href="road-trucking.php">Transporte rodoviário</a></li>
+                                                    <li><a href="air-freight.php">Frete Nacional e Internacional</a></li>
+                                                    <li><a href="goods.php">Despacho aduaneiro</a></li>
+                                                    <li><a href="warehousing.php">Armazenagem</a></li>
+                                                    <li><a href="supply-chain-management.php">Cadeia de mantimentos</a></li>
 								</ul>
 							</li>
 							<li><a href="about-us.php">SOBRE NÓS</a></li>
