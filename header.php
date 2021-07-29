@@ -21,7 +21,7 @@
 	                        <img src="img/logo.png" width="200px" alt="North Logistic"/>
 
 	                    </div>
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8 font-10">
 	                        <div class="text-right header-padding">
 
                             <div class="h-block"><span>EMAIL</span>diretoria@nortbrazillog.com</div>

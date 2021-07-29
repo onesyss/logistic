@@ -19,9 +19,9 @@
 	        
 	        
 	        <div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
-	            <div class="item">
+	            <div class="item" class="image" >
 				<img src="media/main-slider/5.jpg" alt="slider">
-	                <div class="container-fluid">
+	                <div class="container-fluid" >
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
 	                            <div style="display:table-cell; width:100px; vertical-align:top;">
