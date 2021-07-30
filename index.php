@@ -20,7 +20,7 @@
 	        
 	        <div id="owl-main-slider" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-auto-play="true" data-main-slider="true" data-stop-on-hover="true">
 	            <div class="item" class="image" >
-				<img src="media/main-slider/5.jpg" alt="slider">
+				<img src="media/main-slider/8.jpg" alt="slider">
 	                <div class="container-fluid" >
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
@@ -38,7 +38,7 @@
 	                </div>
 	            </div>
 	            <div class="item">
-            		<img src="media/main-slider/3.jpg" alt="slider">
+            		<img src="media/main-slider/10.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
@@ -57,7 +57,7 @@
 	            </div>
                 <div class="item">
             		<!-- <img src="media/3-column-info/11.jpg" alt="slider"> -->
-					<img src="media/main-slider/6.jpg" alt="slider">
+					<img src="media/main-slider/9.jpg" alt="slider">
 	                <div class="container-fluid">
 	                    <div class="slider-content col-md-6 col-lg-6">
 	                        <div style="display:table;">
