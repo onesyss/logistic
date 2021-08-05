@@ -222,11 +222,11 @@
 				</div>
 			</div>
             
-	        <!-- <div class="fleet-gallery block-content bg-image inner-offset">
+	        <div class="fleet-gallery block-content bg-image inner-offset">
         		<div class="container-fluid inner-offset">
 	                <div class="text-center hgroup wow zoomInUp" data-wow-delay="0.3s">
-	                    <h1>THE FLEETS GALLERY</h1>
-	                    <h2>we always use best & fastest fleets</h2>
+	                    <h1>GALERIA DE FROTAS</h1>
+	                    <h2>NÓS SEMPRE USAMOS AS MELHORES E MAIS RÁPIDAS FROTAS</h2>
 	                </div>
 	                <div id="fleet-gallery" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
 	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/2013-07-13%2015.31.18.jpg" alt="Img"></div>
@@ -241,7 +241,7 @@
 	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/2013-07-13%2015.34.05.jpg" alt="Img"></div>
 	                </div>
     			</div>
-	        </div> -->
+	        </div>
 
             
 	        <hr>
